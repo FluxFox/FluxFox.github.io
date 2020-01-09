@@ -1,6 +1,5 @@
 ## Welcome!
 
-### Markdown
 Site is currently under construction. Please check back at a later date. 
 
 ### Support or Contact
